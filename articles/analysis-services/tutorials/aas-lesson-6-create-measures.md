@@ -31,9 +31,9 @@ ms.lasthandoff: 04/16/2018
   
 ## <a name="create-measures"></a>创建度量值  
   
-#### <a name="to-create-a-dayscurrentquartertodate-measure-in-the-dimdate-table"></a>在 DimDate 表中创建 DaysCurrentQuarterToDate 度量值  
+#### <a name="to-create-a-dayscurrentquartertodate-measure-in-the-dimdate-table"></a>在 FactInternetSales 表中创建 DaysCurrentQuarterToDate 度量值  
   
-1.  在模型设计器中，单击“DimDate”表。  
+1.  在模型设计器中，单击“FactInternetSales”表。  
   
 2.  在度量值网格中，单击左上角的空单元格。  
   
@@ -50,9 +50,9 @@ ms.lasthandoff: 04/16/2018
     与计算列不同，使用度量值公式时，可以键入度量值名称，然后键入一个冒号，再键入公式表达式。
 
   
-#### <a name="to-create-a-daysincurrentquarter-measure-in-the-dimdate-table"></a>在 DimDate 表中创建 DaysInCurrentQuarter 度量值  
+#### <a name="to-create-a-daysincurrentquarter-measure-in-the-dimdate-table"></a>在 FactInternetSales 表中创建 DaysInCurrentQuarter 度量值  
   
-1.  “DimDate”表仍然在模型设计器中处于活动状态时，在度量值网格中，单击创建的度量值下方的空单元格。  
+1.  “FactInternetSales”表仍然在模型设计器中处于活动状态时，在度量值网格中，单击创建的度量值下方的空单元格。  
   
 2.  在公式栏中，键入以下公式：  
   
